@@ -1,0 +1,4 @@
+<head>
+  <title>RGC Social Automation</title>
+  <meta name="tiktok-developers-site-verification" content="rgc-social-automation-legal">
+</head>
